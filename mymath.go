@@ -49,7 +49,3 @@ func Asin(x float64) float64 {
 func Atan(x float64) float64 {
 	return math.Atan(x)
 }
-
-func tan(x float64) float64 {
-	return math.Tan(x)
-}
